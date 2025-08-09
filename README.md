@@ -7,6 +7,6 @@ Features: add todo items, simple UI.
 
 ## Tech
 - TypeScript
-- Plain HTML/CSS (optionally Tailwind via CDN)
+- Plain HTML/CSS
 
 
